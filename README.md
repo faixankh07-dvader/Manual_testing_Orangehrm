@@ -20,7 +20,7 @@ Full test case documentation: [`Test_Cases.xlsx`](./Test_Cases.xlsx)
 | Module | Test Cases | Passed | Failed |
 |---|---|---|---|
 | Login & Authentication | 12 | 11 | 1 (reclassified — not a defect, see notes) |
-| PIM | 10 | 9 | 1 |
+| PIM | 16 | 15 | 1 |
 | Leave | 12 | 10 | 2 |
 | **Total** | **34** | **30** | **3 real defects** |
 
