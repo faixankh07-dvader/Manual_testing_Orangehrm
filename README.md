@@ -22,7 +22,7 @@ Full test case documentation: [`Test_Cases.xlsx`](./Test_Cases.xlsx)
 | Login & Authentication | 12 | 11 | 1 (reclassified — not a defect, see notes) |
 | PIM | 16 | 15 | 1 |
 | Leave | 12 | 10 | 2 |
-| **Total** | **34** | **30** | **3 real defects** |
+| **Total** | **40** | **35** | **4 real defects** |
 
 ## Jira Project Structure
 
